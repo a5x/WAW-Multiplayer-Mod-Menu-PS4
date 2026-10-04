@@ -1,2 +1,21 @@
 # WAW-Multiplayer-Mod-Menu-PS4
-Call Of Duty World At War PS4 Port by 01cedric, mod menu gsc
+WIP and not released but:
+
+this menu have :
+- Player Options
+- Fun Options
+- Account Options
+  - Prestige Choice
+  - Unlock all
+  - max rank
+  - modded class name
+  - modify your account stats
+- Admin Options
+- VIP Options
+- Model Options
+- Settings & Forge
+- Weapons Options
+- All Player
+- Player Mist
+
+(this menu is a port from my mw2 ps4 menu)
