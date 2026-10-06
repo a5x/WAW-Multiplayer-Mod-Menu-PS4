@@ -32,4 +32,20 @@ this menu have :
   
 - ***Player Mist***
 
-(this menu is a port from my mw2 ps4 menu)
+---
+
+# Installation
+
+### Step 1
+
+Install **01cedric COD Updater** and the required **COD files**.
+
+### Step 2
+
+Drag and drop the `WAW_MAG_MP` files into your **MW2 mods folder**.
+
+### Step 3
+
+Launch WAW in Multiplayer go in mods option, enable WAW MAG MP and start a **Private Match** to use the menu.
+
+---
