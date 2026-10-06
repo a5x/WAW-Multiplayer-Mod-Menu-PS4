@@ -3,7 +3,7 @@ Will be available today, 10/06/2026
 
 Discord server: https://discord.gg/nfS2YU9ksQ
 
-**Discord server**: no link yet
+
 this menu have :
 - ***Player Options***
   - God Mod
@@ -45,11 +45,11 @@ Install **01cedric COD Updater** and the required **COD files**.
 
 ### Step 2
 
-Drag and drop the `WAW_MAG_MP` files into your **MW2 mods folder**.
+Drag and drop the `WAW_MP_MAG` files into your **WAW mods folder**.
 
 ### Step 3
 
-Launch WAW in Multiplayer go in mods option, enable WAW MAG MP and start a **Private Match** to use the menu.
+Launch WAW in Multiplayer go in mods option, enable WAW MP MAG and start a **Private Match** to use the menu.
 
 ---
 
