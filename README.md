@@ -1,6 +1,7 @@
 # WAW-Multiplayer-Mod-Menu-PS4
 WIP and not released but:
 
+**Discord server**: no link yet
 this menu have :
 - ***Player Options***
   - God Mod
