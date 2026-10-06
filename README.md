@@ -1,5 +1,7 @@
 # WAW-Multiplayer-Mod-Menu-PS4
-WIP and not released but:
+Will be available today, 10/06/2026
+
+Discord server: https://discord.gg/nfS2YU9ksQ
 
 **Discord server**: no link yet
 this menu have :
