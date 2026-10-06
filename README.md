@@ -2,6 +2,7 @@
 
 Discord server: https://discord.gg/nfS2YU9ksQ
 
+[Zombies & Campaign version](https://github.com/a5x/WAW-Zombies-Campaign-Mod-Menu-PS4/releases/tag/release-version-1.2)
 
 this menu have :
 - ***Player Options***
